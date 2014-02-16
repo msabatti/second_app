@@ -19,6 +19,8 @@ group :assets do
 	gem 'coffee-rails', '~> 4.0.0'
 end
 
+gem 'rake'
+
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
